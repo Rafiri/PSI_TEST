@@ -2,7 +2,7 @@
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Rafael Dias Leandro Sobral
 
 Teste termina às 09:40 (Turno 1) / 13:25 (Turno 2).
 
@@ -16,8 +16,8 @@ Não desformates o documento.
     Console.WriteLine($@"\n{c}\n");
 
 P1 - Resposta
-
-    ...
+imprime um simbolo. ele usa a sequencia de escape para representar o caracter de marca registrada.
+    
 
 ### 2. Considera o seguinte código
 
@@ -30,7 +30,10 @@ P1 - Resposta
 
 P2 - Resposta
 
-    ...
+    csharp 
+    double d= 0.3513;
+    float f = 12.645;
+    Console.WriteLine($"{d} + {f} = {d + f}");
 
 ### 3. Escreve um programa que solicite uma string ao utilizador, e seguidamente a mostre no ecrã de forma invertida
 
